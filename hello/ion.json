@@ -1,0 +1,10 @@
+{
+  "kind": "plugin",
+  "name": "Hello",
+  "version": "0.1.0",
+  "description": "Says hi from the palette, the smallest plugin Ion runs.",
+  "license": "MIT",
+  "api": "1.0",
+  "entry": "main.as",
+  "capabilities": ["ui"]
+}
